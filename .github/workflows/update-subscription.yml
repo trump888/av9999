@@ -39,34 +39,36 @@ jobs:
       - name: Generate subscription files
         run: python scripts/generate_subscription.py
 
-      - name: Fetch browser tool download packages
-        run: python scripts/fetch_browser_tools.py
-
       - name: Show generated files
         run: |
           echo "=== Files in subscribe/ ==="
           ls -lh subscribe/
           echo ""
-          echo "=== meta.json ==="
-          cat subscribe/meta.json
-          echo ""
-          echo "=== browser-tools.json (summary) ==="
+          echo "=== meta.json (summary) ==="
           python3 -c "
           import json
-          d = json.load(open('subscribe/browser-tools.json'))
-          print(f'Generated at: {d[\"generated_at\"]}')
-          total_pkgs = sum(len(s.get('packages', [])) for s in d['sources'])
-          total_std = sum(len(s.get('standalone_downloads', [])) for s in d['sources'])
-          print(f'Total packages       : {total_pkgs}')
-          print(f'Total standalone DLs : {total_std}')
+          d = json.load(open('subscribe/meta.json'))
+          print(f'Generated at      : {d[\"generated_at\"]}')
+          print(f'Wiki URIs         : {d[\"total_uris_from_wiki\"]}')
+          print(f'Clash proxies     : {d[\"total_clash_proxies\"]}')
+          ok = sum(1 for s in d['sources'] if s['status']=='ok')
+          fail = sum(1 for s in d['sources'] if s['status']=='fail')
+          print(f'Sources OK / FAIL : {ok} / {fail}')
+          print()
+          print('Sources breakdown:')
           for s in d['sources']:
-              pkgs = s.get('packages', [])
-              if pkgs:
-                  print(f'  {s[\"source\"]:25s}: {len(pkgs)} packages')
+              tag = '[OK]  ' if s['status']=='ok' else '[FAIL]'
+              if s['type'] == 'wiki':
+                  print(f'  {tag} wiki         {s[\"source\"]:25s}  URIs: {s.get(\"uri_count\",0)}')
+              else:
+                  print(f'  {tag} gitlab-ip    {s[\"source\"]:25s}  proxies: {s.get(\"proxy_count\",0)}  via {s.get(\"via\",\"?\")}')
           "
           echo ""
-          echo "=== First 5 URIs ==="
+          echo "=== First 5 URIs (v2rayn.txt) ==="
           head -5 subscribe/v2rayn.txt
+          echo ""
+          echo "=== First 3 proxies (clash.yaml) ==="
+          grep -A 6 "^  - name:" subscribe/clash.yaml | head -25
 
       - name: Commit and push
         run: |
