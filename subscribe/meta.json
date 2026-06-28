@@ -1,0 +1,316 @@
+{
+  "generated_at": "2026-06-28 21:58:36 (UTC+8)",
+  "total_uris_from_wiki": 6,
+  "total_clash_proxies": 27,
+  "sources": [
+    {
+      "type": "wiki",
+      "source": "v2ray免费账号",
+      "url": "https://raw.githubusercontent.com/wiki/Alvin9999-newpac/fanqiang/v2ray%E5%85%8D%E8%B4%B9%E8%B4%A6%E5%8F%B7.md",
+      "uri_count": 3,
+      "status": "ok"
+    },
+    {
+      "type": "wiki",
+      "source": "ss免费账号",
+      "url": "https://raw.githubusercontent.com/wiki/Alvin9999-newpac/fanqiang/ss%E5%85%8D%E8%B4%B9%E8%B4%A6%E5%8F%B7.md",
+      "uri_count": 3,
+      "status": "ok"
+    },
+    {
+      "type": "wiki",
+      "source": "Goflyway免费账号",
+      "url": "https://raw.githubusercontent.com/wiki/Alvin9999-newpac/fanqiang/Goflyway%E5%85%8D%E8%B4%B9%E8%B4%A6%E5%8F%B7.md",
+      "uri_count": 0,
+      "status": "ok"
+    },
+    {
+      "type": "gitlab-ipupdate",
+      "source": "quick/1",
+      "url": "https://gitlab.com/free9999/ipupdate/-/raw/master/backup/img/1/2/ip/quick/1/config.yaml",
+      "backup_url": "https://www.67867867.xyz/Alvin9999/PAC/refs/heads/master/backup/img/1/2/ip/quick/1/config.yaml",
+      "proxy_count": 1,
+      "via": "primary",
+      "status": "ok"
+    },
+    {
+      "type": "gitlab-ipupdate",
+      "source": "quick/2",
+      "url": "https://gitlab.com/free9999/ipupdate/-/raw/master/backup/img/1/2/ip/quick/2/config.yaml",
+      "backup_url": "https://www.67867867.xyz/Alvin9999/PAC/refs/heads/master/backup/img/1/2/ip/quick/2/config.yaml",
+      "proxy_count": 1,
+      "via": "primary",
+      "status": "ok"
+    },
+    {
+      "type": "gitlab-ipupdate",
+      "source": "quick/3",
+      "url": "https://gitlab.com/free9999/ipupdate/-/raw/master/backup/img/1/2/ip/quick/3/config.yaml",
+      "backup_url": "https://www.67867867.xyz/Alvin9999/PAC/refs/heads/master/backup/img/1/2/ip/quick/3/config.yaml",
+      "proxy_count": 1,
+      "via": "primary",
+      "status": "ok"
+    },
+    {
+      "type": "gitlab-ipupdate",
+      "source": "quick/4",
+      "url": "https://gitlab.com/free9999/ipupdate/-/raw/master/backup/img/1/2/ip/quick/4/config.yaml",
+      "backup_url": "https://www.67867867.xyz/Alvin9999/PAC/refs/heads/master/backup/img/1/2/ip/quick/4/config.yaml",
+      "proxy_count": 0,
+      "via": "primary",
+      "status": "ok"
+    },
+    {
+      "type": "gitlab-ipupdate",
+      "source": "clash.meta2/1",
+      "url": "https://gitlab.com/free9999/ipupdate/-/raw/master/backup/img/1/2/ip/clash.meta2/1/config.yaml",
+      "backup_url": "https://www.67867867.xyz/Alvin9999/PAC/refs/heads/master/backup/img/1/2/ip/clash.meta2/1/config.yaml",
+      "proxy_count": 1,
+      "via": "primary",
+      "status": "ok"
+    },
+    {
+      "type": "gitlab-ipupdate",
+      "source": "clash.meta2/2",
+      "url": "https://gitlab.com/free9999/ipupdate/-/raw/master/backup/img/1/2/ip/clash.meta2/2/config.yaml",
+      "backup_url": "https://www.67867867.xyz/Alvin9999/PAC/refs/heads/master/backup/img/1/2/ip/clash.meta2/2/config.yaml",
+      "proxy_count": 1,
+      "via": "primary",
+      "status": "ok"
+    },
+    {
+      "type": "gitlab-ipupdate",
+      "source": "clash.meta2/3",
+      "url": "https://gitlab.com/free9999/ipupdate/-/raw/master/backup/img/1/2/ip/clash.meta2/3/config.yaml",
+      "backup_url": "https://www.67867867.xyz/Alvin9999/PAC/refs/heads/master/backup/img/1/2/ip/clash.meta2/3/config.yaml",
+      "proxy_count": 1,
+      "via": "primary",
+      "status": "ok"
+    },
+    {
+      "type": "gitlab-ipupdate",
+      "source": "clash.meta2/4",
+      "url": "https://gitlab.com/free9999/ipupdate/-/raw/master/backup/img/1/2/ip/clash.meta2/4/config.yaml",
+      "backup_url": "https://www.67867867.xyz/Alvin9999/PAC/refs/heads/master/backup/img/1/2/ip/clash.meta2/4/config.yaml",
+      "proxy_count": 1,
+      "via": "primary",
+      "status": "ok"
+    },
+    {
+      "type": "gitlab-ipupdate",
+      "source": "clash.meta2/5",
+      "url": "https://gitlab.com/free9999/ipupdate/-/raw/master/backup/img/1/2/ip/clash.meta2/5/config.yaml",
+      "backup_url": "https://www.67867867.xyz/Alvin9999/PAC/refs/heads/master/backup/img/1/2/ip/clash.meta2/5/config.yaml",
+      "proxy_count": 1,
+      "via": "primary",
+      "status": "ok"
+    },
+    {
+      "type": "gitlab-ipupdate",
+      "source": "clash.meta2/6",
+      "url": "https://gitlab.com/free9999/ipupdate/-/raw/master/backup/img/1/2/ip/clash.meta2/6/config.yaml",
+      "backup_url": "https://www.67867867.xyz/Alvin9999/PAC/refs/heads/master/backup/img/1/2/ip/clash.meta2/6/config.yaml",
+      "proxy_count": 1,
+      "via": "primary",
+      "status": "ok"
+    },
+    {
+      "type": "gitlab-ipupdate",
+      "source": "shadowquic/1",
+      "url": "https://gitlab.com/free9999/ipupdate/-/raw/master/backup/img/1/2/ip/shadowquic/1/client.yaml",
+      "backup_url": "https://www.67867867.xyz/Alvin9999/PAC/refs/heads/master/backup/img/1/2/ip/shadowquic/1/client.yaml",
+      "proxy_count": 0,
+      "via": "primary",
+      "status": "ok"
+    },
+    {
+      "type": "gitlab-ipupdate",
+      "source": "shadowquic/2",
+      "url": "https://gitlab.com/free9999/ipupdate/-/raw/master/backup/img/1/2/ip/shadowquic/2/client.yaml",
+      "backup_url": "https://www.67867867.xyz/Alvin9999/PAC/refs/heads/master/backup/img/1/2/ip/shadowquic/2/client.yaml",
+      "proxy_count": 0,
+      "via": "primary",
+      "status": "ok"
+    },
+    {
+      "type": "gitlab-ipupdate",
+      "source": "hysteria2/1",
+      "url": "https://gitlab.com/free9999/ipupdate/-/raw/master/backup/img/1/2/ip/hysteria2/1/config.json",
+      "backup_url": "https://www.67867867.xyz/Alvin9999/PAC/refs/heads/master/backup/img/1/2/ip/hysteria2/1/config.json",
+      "proxy_count": 1,
+      "via": "primary",
+      "status": "ok"
+    },
+    {
+      "type": "gitlab-ipupdate",
+      "source": "hysteria2/2",
+      "url": "https://gitlab.com/free9999/ipupdate/-/raw/master/backup/img/1/2/ip/hysteria2/2/config.json",
+      "backup_url": "https://www.67867867.xyz/Alvin9999/PAC/refs/heads/master/backup/img/1/2/ip/hysteria2/2/config.json",
+      "proxy_count": 1,
+      "via": "primary",
+      "status": "ok"
+    },
+    {
+      "type": "gitlab-ipupdate",
+      "source": "hysteria2/3",
+      "url": "https://gitlab.com/free9999/ipupdate/-/raw/master/backup/img/1/2/ip/hysteria2/3/config.json",
+      "backup_url": "https://www.67867867.xyz/Alvin9999/PAC/refs/heads/master/backup/img/1/2/ip/hysteria2/3/config.json",
+      "proxy_count": 1,
+      "via": "primary",
+      "status": "ok"
+    },
+    {
+      "type": "gitlab-ipupdate",
+      "source": "hysteria2/4",
+      "url": "https://gitlab.com/free9999/ipupdate/-/raw/master/backup/img/1/2/ip/hysteria2/4/config.json",
+      "backup_url": "https://www.67867867.xyz/Alvin9999/PAC/refs/heads/master/backup/img/1/2/ip/hysteria2/4/config.json",
+      "proxy_count": 1,
+      "via": "primary",
+      "status": "ok"
+    },
+    {
+      "type": "gitlab-ipupdate",
+      "source": "hysteria/1",
+      "url": "https://gitlab.com/free9999/ipupdate/-/raw/master/backup/img/1/2/ip/hysteria/1/config.json",
+      "backup_url": "https://www.67867867.xyz/Alvin9999/PAC/refs/heads/master/backup/img/1/2/ip/hysteria/1/config.json",
+      "proxy_count": 1,
+      "via": "primary",
+      "status": "ok"
+    },
+    {
+      "type": "gitlab-ipupdate",
+      "source": "hysteria/2",
+      "url": "https://gitlab.com/free9999/ipupdate/-/raw/master/backup/img/1/2/ip/hysteria/2/config.json",
+      "backup_url": "https://www.67867867.xyz/Alvin9999/PAC/refs/heads/master/backup/img/1/2/ip/hysteria/2/config.json",
+      "proxy_count": 1,
+      "via": "primary",
+      "status": "ok"
+    },
+    {
+      "type": "gitlab-ipupdate",
+      "source": "hysteria/3",
+      "url": "https://gitlab.com/free9999/ipupdate/-/raw/master/backup/img/1/2/ip/hysteria/3/config.json",
+      "backup_url": "https://www.67867867.xyz/Alvin9999/PAC/refs/heads/master/backup/img/1/2/ip/hysteria/3/config.json",
+      "proxy_count": 1,
+      "via": "primary",
+      "status": "ok"
+    },
+    {
+      "type": "gitlab-ipupdate",
+      "source": "hysteria/4",
+      "url": "https://gitlab.com/free9999/ipupdate/-/raw/master/backup/img/1/2/ip/hysteria/4/config.json",
+      "backup_url": "https://www.67867867.xyz/Alvin9999/PAC/refs/heads/master/backup/img/1/2/ip/hysteria/4/config.json",
+      "proxy_count": 1,
+      "via": "primary",
+      "status": "ok"
+    },
+    {
+      "type": "gitlab-ipupdate",
+      "source": "juicity/1",
+      "url": "https://gitlab.com/free9999/ipupdate/-/raw/master/backup/img/1/2/ip/juicity/1/config.json",
+      "backup_url": "https://www.67867867.xyz/Alvin9999/PAC/refs/heads/master/backup/img/1/2/ip/juicity/1/config.json",
+      "proxy_count": 1,
+      "via": "primary",
+      "status": "ok"
+    },
+    {
+      "type": "gitlab-ipupdate",
+      "source": "juicity/2",
+      "url": "https://gitlab.com/free9999/ipupdate/-/raw/master/backup/img/1/2/ip/juicity/2/config.json",
+      "backup_url": "https://www.67867867.xyz/Alvin9999/PAC/refs/heads/master/backup/img/1/2/ip/juicity/2/config.json",
+      "proxy_count": 1,
+      "via": "primary",
+      "status": "ok"
+    },
+    {
+      "type": "gitlab-ipupdate",
+      "source": "naiveproxy/1",
+      "url": "https://gitlab.com/free9999/ipupdate/-/raw/master/backup/img/1/2/ip/naiveproxy/1/config.json",
+      "backup_url": "https://www.67867867.xyz/Alvin9999/PAC/refs/heads/master/backup/img/1/2/ip/naiveproxy/1/config.json",
+      "proxy_count": 1,
+      "via": "primary",
+      "status": "ok"
+    },
+    {
+      "type": "gitlab-ipupdate",
+      "source": "naiveproxy/2",
+      "url": "https://gitlab.com/free9999/ipupdate/-/raw/master/backup/img/1/2/ip/naiveproxy/2/config.json",
+      "backup_url": "https://www.67867867.xyz/Alvin9999/PAC/refs/heads/master/backup/img/1/2/ip/naiveproxy/2/config.json",
+      "proxy_count": 1,
+      "via": "primary",
+      "status": "ok"
+    },
+    {
+      "type": "gitlab-ipupdate",
+      "source": "mieru/1",
+      "url": "https://gitlab.com/free9999/ipupdate/-/raw/master/backup/img/1/2/ip/mieru/1/config.json",
+      "backup_url": "https://www.67867867.xyz/Alvin9999/PAC/refs/heads/master/backup/img/1/2/ip/mieru/1/config.json",
+      "proxy_count": 0,
+      "via": "primary",
+      "status": "ok"
+    },
+    {
+      "type": "gitlab-ipupdate",
+      "source": "mieru/2",
+      "url": "https://gitlab.com/free9999/ipupdate/-/raw/master/backup/img/1/2/ip/mieru/2/config.json",
+      "backup_url": "https://www.67867867.xyz/Alvin9999/PAC/refs/heads/master/backup/img/1/2/ip/mieru/2/config.json",
+      "proxy_count": 0,
+      "via": "primary",
+      "status": "ok"
+    },
+    {
+      "type": "gitlab-ipupdate",
+      "source": "singbox/1",
+      "url": "https://gitlab.com/free9999/ipupdate/-/raw/master/backup/img/1/2/ip/singbox/1/config.json",
+      "backup_url": "https://www.67867867.xyz/Alvin9999/PAC/refs/heads/master/backup/img/1/2/ip/singbox/1/config.json",
+      "proxy_count": 1,
+      "via": "primary",
+      "status": "ok"
+    },
+    {
+      "type": "gitlab-ipupdate",
+      "source": "singbox/2",
+      "url": "https://gitlab.com/free9999/ipupdate/-/raw/master/backup/img/1/2/ip/singbox/2/config.json",
+      "backup_url": "https://www.67867867.xyz/Alvin9999/PAC/refs/heads/master/backup/img/1/2/ip/singbox/2/config.json",
+      "proxy_count": 1,
+      "via": "primary",
+      "status": "ok"
+    },
+    {
+      "type": "gitlab-ipupdate",
+      "source": "xray/1",
+      "url": "https://gitlab.com/free9999/ipupdate/-/raw/master/backup/img/1/2/ip/xray/1/config.json",
+      "backup_url": "https://www.67867867.xyz/Alvin9999/PAC/refs/heads/master/backup/img/1/2/ip/xray/1/config.json",
+      "proxy_count": 1,
+      "via": "primary",
+      "status": "ok"
+    },
+    {
+      "type": "gitlab-ipupdate",
+      "source": "xray/2",
+      "url": "https://gitlab.com/free9999/ipupdate/-/raw/master/backup/img/1/2/ip/xray/2/config.json",
+      "backup_url": "https://www.67867867.xyz/Alvin9999/PAC/refs/heads/master/backup/img/1/2/ip/xray/2/config.json",
+      "proxy_count": 1,
+      "via": "primary",
+      "status": "ok"
+    },
+    {
+      "type": "gitlab-ipupdate",
+      "source": "xray/3",
+      "url": "https://gitlab.com/free9999/ipupdate/-/raw/master/backup/img/1/2/ip/xray/3/config.json",
+      "backup_url": "https://www.67867867.xyz/Alvin9999/PAC/refs/heads/master/backup/img/1/2/ip/xray/3/config.json",
+      "proxy_count": 1,
+      "via": "primary",
+      "status": "ok"
+    },
+    {
+      "type": "gitlab-ipupdate",
+      "source": "xray/4",
+      "url": "https://gitlab.com/free9999/ipupdate/-/raw/master/backup/img/1/2/ip/xray/4/config.json",
+      "backup_url": "https://www.67867867.xyz/Alvin9999/PAC/refs/heads/master/backup/img/1/2/ip/xray/4/config.json",
+      "proxy_count": 1,
+      "via": "primary",
+      "status": "ok"
+    }
+  ]
+}
