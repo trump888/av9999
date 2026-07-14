@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-14 03:13:54 (UTC+8)",
+  "generated_at": "2026-07-14 09:43:37 (UTC+8)",
   "total_uris_from_wiki": 4,
-  "total_clash_proxies": 25,
+  "total_clash_proxies": 27,
   "sources": [
     {
       "type": "wiki",
@@ -299,7 +299,7 @@
       "source": "xray/3",
       "url": "https://gitlab.com/free9999/ipupdate/-/raw/master/backup/img/1/2/ip/xray/3/config.json",
       "backup_url": "https://www.67867867.xyz/Alvin9999/PAC/refs/heads/master/backup/img/1/2/ip/xray/3/config.json",
-      "proxy_count": 0,
+      "proxy_count": 1,
       "via": "primary",
       "status": "ok"
     },
@@ -308,7 +308,7 @@
       "source": "xray/4",
       "url": "https://gitlab.com/free9999/ipupdate/-/raw/master/backup/img/1/2/ip/xray/4/config.json",
       "backup_url": "https://www.67867867.xyz/Alvin9999/PAC/refs/heads/master/backup/img/1/2/ip/xray/4/config.json",
-      "proxy_count": 0,
+      "proxy_count": 1,
       "via": "primary",
       "status": "ok"
     }
