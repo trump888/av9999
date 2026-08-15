@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-08-15 14:22:10 (UTC+8)",
-  "total_uris_from_wiki": 4,
+  "generated_at": "2026-08-15 20:20:00 (UTC+8)",
+  "total_uris_from_wiki": 3,
   "total_clash_proxies": 26,
   "sources": [
     {
       "type": "wiki",
       "source": "v2ray免费账号",
       "url": "https://raw.githubusercontent.com/wiki/Alvin9999-newpac/fanqiang/v2ray%E5%85%8D%E8%B4%B9%E8%B4%A6%E5%8F%B7.md",
-      "uri_count": 2,
+      "uri_count": 1,
       "status": "ok"
     },
     {
