@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-08-19 02:24:01 (UTC+8)",
-  "total_uris_from_wiki": 3,
+  "generated_at": "2026-08-19 08:43:03 (UTC+8)",
+  "total_uris_from_wiki": 2,
   "total_clash_proxies": 26,
   "sources": [
     {
       "type": "wiki",
       "source": "v2ray免费账号",
       "url": "https://raw.githubusercontent.com/wiki/Alvin9999-newpac/fanqiang/v2ray%E5%85%8D%E8%B4%B9%E8%B4%A6%E5%8F%B7.md",
-      "uri_count": 1,
-      "status": "ok"
+      "error": "<urlopen error [Errno 104] Connection reset by peer>",
+      "status": "fail"
     },
     {
       "type": "wiki",
