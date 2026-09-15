@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-15 05:12:24 (UTC+8)",
+  "generated_at": "2026-09-15 10:37:16 (UTC+8)",
   "total_uris_from_wiki": 3,
   "total_clash_proxies": 26,
   "sources": [
@@ -138,7 +138,7 @@
       "url": "https://gitlab.com/free9999/ipupdate/-/raw/master/backup/img/1/2/ip/hysteria2/1/config.json",
       "backup_url": "https://www.67867867.xyz/Alvin9999/PAC/refs/heads/master/backup/img/1/2/ip/hysteria2/1/config.json",
       "proxy_count": 1,
-      "via": "backup",
+      "via": "primary",
       "status": "ok"
     },
     {
