@@ -1,28 +1,28 @@
 {
-  "generated_at": "2026-11-10 08:59:30 (UTC+8)",
-  "total_uris_from_wiki": 3,
+  "generated_at": "2026-11-10 21:59:25 (UTC+8)",
+  "total_uris_from_wiki": 0,
   "total_clash_proxies": 26,
   "sources": [
     {
       "type": "wiki",
       "source": "v2ray免费账号",
       "url": "https://raw.githubusercontent.com/wiki/Alvin9999-newpac/fanqiang/v2ray%E5%85%8D%E8%B4%B9%E8%B4%A6%E5%8F%B7.md",
-      "uri_count": 1,
-      "status": "ok"
+      "error": "HTTP Error 404: Not Found",
+      "status": "fail"
     },
     {
       "type": "wiki",
       "source": "ss免费账号",
       "url": "https://raw.githubusercontent.com/wiki/Alvin9999-newpac/fanqiang/ss%E5%85%8D%E8%B4%B9%E8%B4%A6%E5%8F%B7.md",
-      "uri_count": 2,
-      "status": "ok"
+      "error": "HTTP Error 404: Not Found",
+      "status": "fail"
     },
     {
       "type": "wiki",
       "source": "Goflyway免费账号",
       "url": "https://raw.githubusercontent.com/wiki/Alvin9999-newpac/fanqiang/Goflyway%E5%85%8D%E8%B4%B9%E8%B4%A6%E5%8F%B7.md",
-      "uri_count": 0,
-      "status": "ok"
+      "error": "HTTP Error 404: Not Found",
+      "status": "fail"
     },
     {
       "type": "gitlab-ipupdate",
